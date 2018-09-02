@@ -11,4 +11,3 @@ else
 echo "Installing tofrodos"
 apt-get install tofrodos -y -q
 tofrodos autoroot cli.sh
-fi
